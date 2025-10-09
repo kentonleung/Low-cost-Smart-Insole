@@ -1,5 +1,5 @@
-# TinyInsoleRecorder
-Low-cost wearable gait monitoring system using TinyDuino, force-sensitive resistors (FSRs), and a BMA250 accelerometer.
+# Low-cost Smart Insole
+Low-cost wearable gait monitoring system using TinyDuino, force-sensitive resistors (FSRs), and an integrated BMA250 accelerometer within a TinyDuino board.
 
 ## Overview
 **TinyInsoleRecorder** is firmware for a custom insole-based gait monitoring system.  
